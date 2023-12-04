@@ -1,6 +1,34 @@
-.feature-icon {
-    width: 4rem;
-    height: 4rem;
-    border-radius: 0.75rem;
+* {
+    margin: 15px;
+    background-color: #67729D;
+}
+
+head {
+    font-family: 'Hedvig Letters Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+
+.pirmais {
+    height: 100px;
+    background-color: #BB9CC0 ;
+    border: 2px;
+}
+
+.otrais {
+    height: 150px;
+    background-color: #BB9CC0 ;
+    border: 2px;
+}
+
+.tresais {
+    height: 300px;
+    background-color: #BB9CC0 ;
+    border: 2px;
+}
+
+.ceturtais {
+    height: 150px;
+    background-color: #BB9CC0 ;
+    border: 2px;
 }
 
