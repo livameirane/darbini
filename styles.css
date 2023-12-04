@@ -1,6 +1,10 @@
 * {
-    margin: 15px;
+    
     background-color: #67729D;
+}
+
+h1 {
+    text-align: center;
 }
 
 head {
