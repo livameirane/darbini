@@ -8,7 +8,7 @@ h1 {
     background-color: #DCBFFF;
 }
 
-head {
+body {
     font-family: 'Hedvig Letters Serif', serif;
 font-family: 'Playfair Display', serif;
 }
@@ -40,7 +40,7 @@ font-family: 'Playfair Display', serif;
 .btn  {
     background-color: #FFD9C0;
     border-color: transparent;
-    
+    display: inline-block;
 }
 
 .virsrakstam {
