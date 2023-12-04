@@ -1,10 +1,11 @@
-* {
-    
+.* {
+    border: 10px;
     background-color: #67729D;
 }
 
 h1 {
     text-align: center;
+    background-color: #DCBFFF;
 }
 
 head {
