@@ -1,11 +1,11 @@
+
 * {
-    margin: 10px;
+    margin: 12px;
     background-color: #67729D;
 }
 
 h1 {
     text-align: center;
-    background-color: #DCBFFF;
 }
 
 body {
@@ -14,35 +14,134 @@ font-family: 'Playfair Display', serif;
 }
 
 .pirmais {
-    height: 100px;
+    height: 70px;
     background-color: #BB9CC0 ;
     border: 2px;
+    font-size: x-large;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
+.man {
+    background-color: #DCBFFF;
+}
+
+
 .otrais {
-    height: 150px;
+    height: 60px;
     background-color: #BB9CC0 ;
     border: 2px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .tresais {
-    height: 300px;
+    height: 70px;
     background-color: #BB9CC0 ;
     border: 2px;
+    font-size: x-large;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .ceturtais {
-    height: 150px;
     background-color: #BB9CC0 ;
-    border: 2px;
+ width: 99,5%;
+ display: flex;
+ justify-content: space-around;
 }
+
+
 
 .btn  {
     background-color: #FFD9C0;
-    border-color: transparent;
+    border-color: #67729D;
     display: inline-block;
 }
 
+
 .virsrakstam {
     background-color: #DCBFFF;
+}
+
+.table {
+    color: #BB9CC0;
+    background-color: #DCBFFF;
+    border: 10px;
+    border-color:#67729D ;
+}
+
+
+.gimene1 {
+    height: 70px; 
+    border: 2px;
+    font-size: x-large;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: #BB9CC0 ;
+    
+}
+
+.gimenei {
+    background-color: #DCBFFF;
+}
+
+.gimene2 {
+        background-color: #BB9CC0 ;
+     width: 99,5%;
+     display: flex;
+     justify-content: space-around;
+}
+
+
+.draugiem {
+    background-color: #DCBFFF;
+}
+
+.draugi1 {
+    height: 70px;
+    background-color: #BB9CC0 ;
+    
+    font-size: x-large;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.draugi2 {
+    background-color: #BB9CC0 ;
+ width: 99,5%;
+ display: flex;
+ justify-content: space-around;
+}
+
+
+.skolai {
+    background-color: #DCBFFF;
+}
+
+.skola1 {
+    height: 70px;
+    background-color: #BB9CC0 ;
+    border: 2px;
+    font-size: x-large;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.skola2 {
+    background-color: #BB9CC0 ;
+ width: 99,5%;
+ display: flex;
+ justify-content: space-around;
+}
+
+.kajene {
+    height:30px;
+    display: flex;
+    justify-content: space-evenly;
 }
